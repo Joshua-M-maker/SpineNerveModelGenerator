@@ -11,7 +11,7 @@ Spinal cord injury (SCI) profoundly affects an individual's ability to move. For
 -bpy=4.1.0 \
 -pyvista=0.44.0 \
 -scipy=1.14.0 \
--pandas=2.2.2 \
+-pandas=2.2.2
 
 The detailed requirements are listed in [env_requirements.yaml](env_requirements.yaml), the virtual envirionment can be created directly by execute: `conda env create -f env_requirement.yaml`
 
