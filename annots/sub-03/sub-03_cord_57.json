@@ -1,0 +1,308 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "ClosedCurve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 19,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "CC_48-1",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [5.830707084428084, 53.32213878910541, -385.5964084638584],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "CC_48-2",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [7.946138821741904, 53.245214115831125, -385.5962742048446],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "CC_48-3",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [8.869236307110707, 54.129847858609054, -385.59781818350325],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "CC_48-4",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [9.600021816358794, 55.283717957882295, -385.59983206871016],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "CC_48-5",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [9.946183373368257, 56.39912572051133, -385.60177882441013],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "CC_48-6",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [9.56155942112267, 57.78376983963304, -385.60419548665845],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "CC_48-7",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [8.8307739118646, 58.66840358240287, -385.6057394653171],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "CC_48-8",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [8.061526007384536, 59.168413958749284, -385.6066121489067],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "9",
+                    "label": "CC_48-9",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [6.984578941113053, 59.74534900837884, -385.6076190915102],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "10",
+                    "label": "CC_48-10",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [6.13840624618711, 59.860736018301665, -385.60782048003085],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "11",
+                    "label": "CC_48-11",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [5.176846365590656, 59.74534900836999, -385.6076190915101],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "12",
+                    "label": "CC_48-12",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [4.253748880219966, 59.24533863201528, -385.60674640792047],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "13",
+                    "label": "CC_48-13",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [3.292188999626145, 58.5914789090911, -385.6056052063032],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "14",
+                    "label": "CC_48-14",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [2.4460163047060455, 57.51453348310194, -385.6037255801101],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "15",
+                    "label": "CC_48-15",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [1.8306179811280963, 56.66836207696784, -385.60224873095837],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "16",
+                    "label": "CC_48-16",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [2.0998547477003484, 55.62987898762647, -385.60043623427214],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "17",
+                    "label": "CC_48-17",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [2.446016304719606, 54.74524524485476, -385.5988922556135],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "18",
+                    "label": "CC_48-18",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [3.21526420920193, 53.78368682880047, -385.5972140179411],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "19",
+                    "label": "CC_48-19",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode19",
+                    "position": [4.522985646816139, 53.32213878909901, -385.5964084638583],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "area",
+                    "enabled": false,
+                    "units": "cm2",
+                    "printFormat": "%-#4.4g%s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [0.4, 1.0, 1.0],
+                "selectedColor": [1.0, 0.5000076295109483, 0.5000076295109483],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 3.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}
